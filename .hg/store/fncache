@@ -1,0 +1,7 @@
+data/ADXL362.lib.i
+data/mbed-os.lib.i
+data/main.cpp.i
+data/mbed_app.json.i
+data/mbed.bld.i
+data/README.md.i
+data/vibration_explain.txt.i

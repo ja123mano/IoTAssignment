@@ -1,0 +1,10 @@
+^BUILD$
+^.mbed$
+^compile_commands.json$
+^.clangd$
+^.cache$
+^mbed-os$
+^ADXL362$
+^mbed-mqtt$
+^Adafruit-GFX-MbedOS6$
+^Adafruit_SSD1331_MbedOS6$
